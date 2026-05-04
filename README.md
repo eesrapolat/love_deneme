@@ -1,1 +1,1 @@
-# love_deneme
+# deneme
